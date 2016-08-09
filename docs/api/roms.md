@@ -285,7 +285,7 @@ GET https://romhut.com/roms/:slug.json
 ```json
 {
   "rom": {
-    "id": 16,
+    "id": 14,
     "name": "Doris Schimmel",
     "slug": "doris-schimmel",
     "description": "Et inventore quod dolorum eveniet et accusamus.",
