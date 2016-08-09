@@ -2,12 +2,13 @@
 
 ## Overview
 
-**Endpoint**
+### Endpoint
+
 ```
 GET https://romhut.com/roms.json
 ```
 
-**Response**
+### Response
 
 ```json
 {
@@ -273,13 +274,15 @@ GET https://romhut.com/roms.json
 
 ## Summary
 
-**Endpoint**
+### Endpoint
+
 ```
 GET https://romhut.com/roms/:slug.json
 ```
 
-*Response*
-```
+### Response
+
+```json
 {
   "rom": {
     "id": 16,
